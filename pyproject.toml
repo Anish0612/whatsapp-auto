@@ -3,8 +3,7 @@ name = "whatsapp_auto"
 authors = [
   { name="Anish", email="anishshakthivelnadar@gmail.com" },
 ]
-version = "1.0"
-description = "It is a Simple and Powerful WhatsApp Automation Library with many useful Features"
+description = "Hides Your Ip address in https requests"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
@@ -17,6 +16,10 @@ dependencies = [
     "selenium",
     "undetected-chromedriver",
 ]
+
+dynamic = ["version"]
+
+[tool.setuptools_scm]
 
 [project.urls]
 "Homepage" = "https://github.com/Anish0612/whatsapp-auto"
