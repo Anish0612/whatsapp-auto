@@ -3,7 +3,7 @@ name = "whatsapp_auto"
 authors = [
   { name="Anish", email="anishshakthivelnadar@gmail.com" },
 ]
-description = "Hides Your Ip address in https requests"
+description = "WhatsApp Web Automation Library using selenium"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
