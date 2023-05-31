@@ -1,5 +1,5 @@
 [project]
-name = "whatsapp"
+name = "whatsapp_auto"
 authors = [
   { name="Anish", email="anishshakthivelnadar@gmail.com" },
 ]
@@ -19,8 +19,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/Anish0612/whatsapp.git"
-"Bug Tracker" = "https://github.com/Anish0612/whatsapp.git/issues"
+"Homepage" = "https://github.com/Anish0612/whatsapp-auto"
+"Bug Tracker" = "https://github.com/Anish0612/whatsapp-auto/issues"
 
 
 [build-system]

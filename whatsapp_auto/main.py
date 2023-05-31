@@ -2,7 +2,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-import whatsapp.exception as exception
+import whatsapp_auto.exception as exception
 import undetected_chromedriver as uc
 from urllib.parse import quote
 from re import fullmatch
